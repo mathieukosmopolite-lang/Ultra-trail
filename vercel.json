@@ -1,0 +1,12 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "nodeVersion": "18.x",
+  "outputDirectory": ".next",
+  "env": [
+    "NEXT_PUBLIC_OPENWEATHER_API_KEY",
+    "OPENWEATHER_API_KEY"
+  ]
+}
